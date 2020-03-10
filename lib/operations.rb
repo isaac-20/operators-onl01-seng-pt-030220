@@ -4,8 +4,8 @@ if speed >  60
     "unsafe"
 elsif speed < 31
     "unsafe"
-else 
-    "safe"
+  else 
+      "safe"
 end
 
 
